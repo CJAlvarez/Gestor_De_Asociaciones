@@ -1,0 +1,37 @@
+                        Gestor Web de Asociaciones
+
+-> Aplicación móvil.
+
+>>>>> DESCRIPCIÓN
+_ Sistema de usuarios (Crear jeraquía) #Permisos* \\ Acceso OmDev \\ Validación de registro por correo
+_ Mensajería
+_ Calendario
+_ Creador de eventos (Auto-validados)
+_ Creador de proyectos
+_ Gestor de resultados de proyectos
+_ Creador de Equipos de trabajo 
+_ Creador de programas estructurados (Modificación de estructuras y diseño) #Drag & Drope
+_ Notificaciones y Recordatorios
+_ Conexión con redes sociales
+_ Soporte técnico
+_ App
+_ Idiomas
+_ Tu entorno
+_ Sistema de amigos
+_ Manuel de usuario
+_ Nube
+_ Hora
+_ Spam -> Tribunal
+
+>>>>> IMPLEMENTACIONES WEB
+_ Parallax
+_ Accordions
+_ Animated Buttons
+_ Side Navigation
+_ Modal Boxes
+_ Progress Bars
+_ Login Form
+_ Tooltips
+_ Slideshow
+_ Filter List
+_ Color Picker
